@@ -1,4 +1,4 @@
-<?php namespace Laraon\Keeper;
+<?php namespace Terbium\Keeper;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -18,7 +18,7 @@ class KeeperServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('laraon/keeper');
+		$this->package('terbium/keeper');
 	}
 
 	/**

@@ -1,6 +1,6 @@
 <?php
 
-use Laraon\Keeper\Facades\Keeper;
+use Terbium\Keeper\Facades\Keeper;
 
 // Basic example
 // Set rule, that grants ability to comment something

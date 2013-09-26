@@ -1,14 +1,14 @@
 <?php
 /**
- * @package Laraon/Keeper
+ * @package Terbium/Keeper
  * @author Volodimyr Terion Kornilov <mail@terion.name>
- * @copyright Copyright (c) 2013 by Laraon
+ * @copyright Copyright (c) 2013 by Terbium
  * @license MIT
  * @version 1.0
  * @access public
  */
 
-namespace Laraon\Keeper;
+namespace Terbium\Keeper;
 
 
 use Illuminate\Config\Repository;
